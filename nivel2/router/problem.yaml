@@ -1,0 +1,7 @@
+problem_format_version: 2023-07-draft
+type: pass-fail
+name: Router
+credits:
+  authors:
+    - Lucas Saurin
+source: LPC 2025

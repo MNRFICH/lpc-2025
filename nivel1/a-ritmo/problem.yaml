@@ -1,0 +1,7 @@
+problem_format_version: 2023-07-draft     # no tocar
+type: pass-fail
+name: A ritmo
+credits:
+  authors:
+    - Raats Brian
+source: LPC 2025

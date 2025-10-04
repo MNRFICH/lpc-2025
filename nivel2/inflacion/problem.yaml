@@ -1,0 +1,8 @@
+problem_format_version: 2023-07-draft     # no tocar
+type: pass-fail
+name: Inflacion
+credits:
+  authors:
+    - Bob Esponja <besponja@gmail.com>
+    - Patricio Estrella <pestrella@gmail.com>
+source: LPC 2025

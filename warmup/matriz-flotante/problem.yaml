@@ -1,0 +1,7 @@
+problem_format_version: 2023-07-draft     # no tocar
+type: pass-fail
+name: Matriz flotante
+credits:
+  authors:
+    - Brian Raats
+source: LPC 2025
